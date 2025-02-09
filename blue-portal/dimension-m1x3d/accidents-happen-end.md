@@ -1,0 +1,6 @@
+ ## Ending 5/10 (Bri's Path): Accidents Happen!.. Right?
+
+With giddy and excitement in your eyes, you quietly open the door to the gadgets, and to your amazement, there seems to be at least hundreds of Gadgets, some with labels and some without. However, one in particular comes to mind. It looked like a water gun, but its ‘Bottle’ glowed bright blue, and as you got closer to it, you could faintly see a new universe swirling about inside.. This has to be your way back! You pick the Gadget up, admiring how easy it was to hold.. You look towards a wall, but instead of creating a portal as soon as you hit the trigger, a ray of blue and purple light would hit the wall and bounce right off of it. As you ducked for cover, the ray would hit a few of the unlabeled Gadgets, immediately causing them to break apart and make such a loud noise.. You didn’t even have time to react as the Picture Frame from earlier came barging into the room, with her mask off, and with pure hatred in her eyes. She quickly snatched up one of the remaining Gadgets and aimed it at you, and upon pulling the trigger, disintegrated you into little bits of atoms! She blew on the firing canister and placed it down, just to sweep your ashes into a trash bin, just to be forgotten about.
+
+### [Head Back to Previous Fork.](makeshift-workshop.md)
+### [Head Back to Beginning.](../../README.md)
