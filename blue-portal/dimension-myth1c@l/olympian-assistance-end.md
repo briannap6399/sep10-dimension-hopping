@@ -1,0 +1,6 @@
+## Ending 4/10 (Bri's Path): Olympian Assistance.
+
+You weighed your options, and ultimately decided that potentially angering Hera might not be the best choice for you, especially given your situation. You take a deep breath, and slip through the Olympus Gates, with several gods and goddesses looking your way. You try to look confident as your presence is now known by Zeus but inside, you are genuinely terrified. You reveal your struggles to the Supreme God, and beg for his assistance in getting back home, and at first, it seemed as if he was teetering on helping you, but as soon as you mentioned the Enchanted Mirror, his eyes lit up. The Powerful God then reveals to you that the mirror doesn’t just reflect magical attacks, like it did with the Gorgon’s Stone Powers, but also reflects physical attacks. He also reveals that he needed this in order to deal with some pesky god killer named Kratos.. Anyways, you offer the mirror to Zeus, and in turn, he transfers you across the Blue Portal’s Space Stream, sending you back home! However, you do recall hearing a loud yell calling for the god before you got transferred back.. But oh well! That’s not your problem anymore.
+
+### [Head back to Previous Fork.](zeus-approval.md)
+### [Head Back to Beginning.](../../README.md)
