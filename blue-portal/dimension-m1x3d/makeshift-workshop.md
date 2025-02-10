@@ -1,0 +1,7 @@
+## Makeshift Workshop.
+
+Before you get hit by more raindrops, you take off towards the Warehouse, hoping that its doors are unlocked. Fortunately for you, you were able to open its doors, and slip in, just as the ‘Teardrop Family Reunion’ got more heavy. You take a sigh of relief as you look around the Warehouse’s Interior. For an Abandoned Warehouse, the place is.. Surprisingly well-lit, and even furnished nicely. You venture a bit deeper, only to be stopped by a strange sound.. At first, you feel Goosebumps popping up on your skin, but as the sounds continue, you start to realize.. It’s just someone using a blow torch, phew! .. Wait, someone using a blow torch? Your curiosity spikes up once again, and you approach the sound, only to be met with 2 doors. 1 Reveals who’s making the sound, which just seems to be a Picture Frame looking person with a mask shielding their face(?) from a blow torch they’re holding, as they solder 2 pieces of metal. In the other room however, you are absolutely blown away with the amount of devices and gadgets you see. It looks like a giant room fit for storing and Workshopping.. Plus the door is unlocked, even better! You could try to knock on the door and ask for help from the Picture Frame, or you could take things into your own hands, and see if one of their gadgets would help you. The Choice is yours!
+
+### [Knock on the Picture Frame’s Door.](glass-inventor.md)
+### [Test and Use their Gadgets.](accidents-happen-end.md)
+
