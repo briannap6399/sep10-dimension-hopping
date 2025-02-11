@@ -1,4 +1,4 @@
-# Stay to watch
+# Stay to Watch.
 #### `You have Chosen to Stay and Watch the Fight.`
 
 As everyone screams and runs away from a certain direction on your left, you start walking towards that direction. As you get closer you now fully notice the 2 people fighting one flying in the air, the other on an
