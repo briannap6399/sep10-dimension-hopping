@@ -8,4 +8,4 @@ Oh No! It seems that your luck has run out! After Touring a Laboratory, you acci
 ### [Enter the Blue Portal. (Bri’s Path)](blue-portal/blue-portal.md)
 ### [Enter the Purple Portal. (Selena’s Path)](purple-portal/purple-portal.md)
 
-#### *Click [Here](bonus-add-ons/new-flow-map.png) to see the Flow Map!*
+#### *Click [Here](bonus-add-ons) to See the Bonus Features!* 
