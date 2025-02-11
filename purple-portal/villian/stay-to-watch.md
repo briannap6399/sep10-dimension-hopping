@@ -1,5 +1,5 @@
 # Stay to watch
-## You chose to stay and watch the fight
+#### `You have Chosen to Stay and Watch the Fight.`
 
 As everyone screams and runs away from a certain direction on your left, you start walking towards that
 direction. As you get closer you now fully notice the 2 people fighting one flying in the air, the other on an
@@ -10,5 +10,5 @@ shadow. Dark shadow vine comes out of the person as they stare down at the chaos
 realize that person is you.
 What will you do next?
 
-### Go to another dimension
-### Run away from the fight but stay in this dimension
+### [Go to Another Dimension.](option-a.md)
+### [Run Away from the Fight, but Stay in the Dimension.](option-b.md)

@@ -1,5 +1,5 @@
-# Path 1
-## You have chosen path 1
+# Path 1.
+#### `You have Chosen Path 1`.
 
 As you continue walking you notice someone in front of you, it's you!? It's the other version of you, that you
 saw on the rooftop earlier fighting the hero. They look at you, no surprise in their expression rather
