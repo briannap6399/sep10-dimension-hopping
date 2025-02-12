@@ -1,5 +1,5 @@
 # Welcome to the Choose your Own Adventure Project!
-### This repository was constructed by Brianna Peralta, and Selena Gonzalez, as apart of a Project for what is known as SEP10. Please enjoy the experience, and hope you don't die!
+### This repository was constructed by [Brianna Peralta](https://github.com/briannap6399), and [Selena Gonzalez](https://github.com/selenag1958), as apart of a Project for what is known as SEP10. Please enjoy the experience, and hope you don't die!
 
 ## 2 Unique Portals.
 
