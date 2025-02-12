@@ -24,7 +24,7 @@
 
 ## Name: `Dimension M@K0.`
 ### Date of 'Creation': `Approximately 7.9 Million Years Ago.`
-### General Information: `Dimension M@K0 is extremely unknown to most Travelers, which is a positive, due to the Dimension's Unpredictable Behaviour, and Alleged Lack of Dry Land. It seems to be a Vast Ocean, featuring various sea creatures one would see in Other Dimensions, as well as extinct creatures. If one is not prepared for the Dimension and it's Behaviours, they could easily drown, or suffer from the BENDS.
+### General Information: `Dimension M@K0 is extremely unknown to most Travelers, which is a positive, due to the Dimension's Unpredictable Behaviour, and Alleged Lack of Dry Land. It seems to be a Vast Ocean, featuring various sea creatures one would see in Other Dimensions, as well as extinct creatures. If one is not prepared for the Dimension and it's Behaviours, they could easily drown, or suffer from the [BENDS](https://www.emedicinehealth.com/decompression_syndromes_the_bends/article_em.htm).`
 ### Safety Level for New Travelers: `5; Extremely Dangerous. Do not Go to this Dimension unless One is Trained.`
 ### Where the Dimension is Found: `Take the Blue Portal, and Mess With a.. Certain Figure. (Bri's Portal)`
 -------------------------------------------------------------------------------------------------------------------------
@@ -52,7 +52,7 @@
 
 ## Name: Dimension V1LL@N.
 ### Date of 'Creation': `N/A.`
-### General Information: `Dimension V1LL@N, similarly to Dimension M1X3D, features Location Structures similar to Dimension H0M3. Unlike Dimension M1X3D however, most figures featured in Dimension V1LL@N are still human, though some possess Powerful Abilities, which can be either used to help protect citizens, or ruin other citizen's lives. The Location Structures are also more advanced when compared to Dimension H0M3 and Dimension M1X3D, with more secure buildings, and further progressed technology.
+### General Information: `Dimension V1LL@N, similarly to Dimension M1X3D, features Location Structures similar to Dimension H0M3. Unlike Dimension M1X3D however, most figures featured in Dimension V1LL@N are still human, though some possess Powerful Abilities, which can be either used to help protect citizens, or ruin other citizen's lives. The Location Structures are also more advanced when compared to Dimension H0M3 and Dimension M1X3D, with more secure buildings, and further progressed technology.`
 ### Safety Level for New Travelers: `3; On the Netural Side, but like Dimension M1X3D, be weary of the Powerful Entities found here.`
 ### Where the Dimension is Found: `Take the Purple Portal. (Selena's Portal)`
 -------------------------------------------------------------------------------------------------------------------------
