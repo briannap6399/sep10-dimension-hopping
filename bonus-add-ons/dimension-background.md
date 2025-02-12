@@ -24,7 +24,7 @@
 
 ## Name: `Dimension M@K0.`
 ### Date of 'Creation': `Approximately 7.9 Million Years Ago.`
-### General Information: `Dimension M@K0 is extremely unknown to most Travelers, which is a positive, due to the Dimension's Unpredictable Behaviour, and Alleged Lack of Dry Land. It seems to be a Vast Ocean, featuring various sea creatures one would see in Other Dimensions, as well as extinct creatures. If one is not prepared for the Dimension and it's Behaviours, they could easily drown, or suffer from the [BENDS](https://www.emedicinehealth.com/decompression_syndromes_the_bends/article_em.htm).`
+### General Information: `Dimension M@K0 is extremely unknown to most Travelers, which is a positive, due to the Dimension's Unpredictable Behaviour, and Alleged Lack of Dry Land. It seems to be a Vast Ocean, featuring various sea creatures one would see in Other Dimensions, as well as extinct creatures. If one is not prepared for the Dimension and it's Behaviours, they could easily drown, or suffer from the BENDS.`
 ### Safety Level for New Travelers: `5; Extremely Dangerous. Do not Go to this Dimension unless One is Trained.`
 ### Where the Dimension is Found: `Take the Blue Portal, and Mess With a.. Certain Figure. (Bri's Portal)`
 -------------------------------------------------------------------------------------------------------------------------
