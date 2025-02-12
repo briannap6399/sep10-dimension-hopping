@@ -50,7 +50,7 @@
 ### Where the Dimension is Found: `Take the Blue Portal, and Enter Accessway #1. (Bri's Portal)`
 -------------------------------------------------------------------------------------------------------------------------
 
-## Name: Dimension V1LL@N.
+## Name: `Dimension V1LL@N.`
 ### Date of 'Creation': `N/A.`
 ### General Information: `Dimension V1LL@N, similarly to Dimension M1X3D, features Location Structures similar to Dimension H0M3. Unlike Dimension M1X3D however, most figures featured in Dimension V1LL@N are still human, though some possess Powerful Abilities, which can be either used to help protect citizens, or ruin other citizen's lives. The Location Structures are also more advanced when compared to Dimension H0M3 and Dimension M1X3D, with more secure buildings, and further progressed technology.`
 ### Safety Level for New Travelers: `3; On the Netural Side, but like Dimension M1X3D, be weary of the Powerful Entities found here.`
