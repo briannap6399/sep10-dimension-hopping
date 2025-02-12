@@ -17,7 +17,7 @@
 
 ## Name: `Dimension H0M3.`
 ### Date of 'Creation': `Approximately 4.6 Billion Years Ago.`
-### General Information: `Dimension H@M3 is the Home Dimension of most people who travel through different dimensions. It's filled with History and Tragedy; Life and Death. Dimension H@M3 is located directly on Planet Earth, and seems to be the most Neutral in terms of risky behaviour.`
+### General Information: `Dimension H0M3 is the Home Dimension of most people who travel through different dimensions. It's filled with History and Tragedy; Life and Death. Dimension H0M3 is located directly on Planet Earth, and seems to be the most Neutral in terms of risky behaviour.`
 ### Safety Level for New Travelers: `3; It's Depending on your Living Region if it's Truly Safe.`
 ### Where the Dimension is Found: `Both Portals Feature Dimension H0M3 as a Possible Dimension. (Bri's and Selena's Portal)`
 -------------------------------------------------------------------------------------------------------------------------
@@ -59,4 +59,4 @@
 
 ### [Back to README.](../README.md)
 
-V1LL@N
+
